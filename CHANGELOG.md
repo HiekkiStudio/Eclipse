@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Update changelogs [\#156](https://github.com/Hiekki4/Eclipse/pull/156) ([github-actions[bot]](https://github.com/apps/github-actions))
 - Update changelogs [\#155](https://github.com/Hiekki4/Eclipse/pull/155) ([github-actions[bot]](https://github.com/apps/github-actions))
 - Bump @types/node from 14.17.9 to 16.4.14 [\#154](https://github.com/Hiekki4/Eclipse/pull/154) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump eslint from 7.24.0 to 7.32.0 [\#153](https://github.com/Hiekki4/Eclipse/pull/153) ([dependabot[bot]](https://github.com/apps/dependabot))
