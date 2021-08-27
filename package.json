@@ -52,6 +52,6 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.0",
     "tslib": "^1.14.1",
-    "typescript": "^4.3.5"
+    "typescript": "^4.4.2"
   }
 }
